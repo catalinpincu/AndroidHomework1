@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tema1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button1">Press me</string>
+    <string name="fml">Why does this happen to me???</string>
+    <string name="f1a2">Go to F2A2</string>
+    <string name="f2a21">Replace</string>
+    <string name="f2a22">Delete F1A2</string>
+    <string name="f2a23">Close app</string>
+</resources>
